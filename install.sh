@@ -104,7 +104,7 @@ install(){
     {
       "v": "2",
       "ps": "ibmyes",
-      "add": "ibmyes.us-south.cf.appdomain.cloud",
+      "add": "apic.eu-gb.mybluemix.net",
       "port": "443",
       "id": "${UUID}",
       "aid": "4",
